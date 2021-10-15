@@ -19,5 +19,4 @@ Output Snapshot:
 
 Youtube Link: https://youtu.be/i9yajFbnTTM
 
-Linkdin Link:
-
+Linkdin Link:https://www.linkedin.com/posts/prajwal-m-s-449114185_github-embeddedsystems-iottechnology-activity-6854595169321390081-jM2I
